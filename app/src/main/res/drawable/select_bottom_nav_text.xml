@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    //当菜单栏被选中时提供的图片
+    <item android:color="#017e65" android:state_checked="true" />
+    //当菜单栏没有被选中时，提供的图片。
+    <item android:color="#fff" android:state_checked="false" />
+</selector>

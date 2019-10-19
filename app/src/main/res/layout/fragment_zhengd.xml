@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--诊断菜单页-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal|center">
+
+
+    <Button
+        android:id="@+id/btn_zhengd"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="开始诊断"
+        android:background="@drawable/bg_zhengd"
+        android:textColor="#fff"
+        android:textSize="18sp"></Button>
+</LinearLayout>

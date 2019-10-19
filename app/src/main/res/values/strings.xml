@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">问诊模拟助手</string>
+    <string name="title_activity_index">问诊模拟助手</string>
+    <string name="bottom_item_zhengd">诊断</string>
+    <string name="bottom_item_jilu">记录</string>
+    <string name="bottom_item_wode">我的</string>
+</resources>
